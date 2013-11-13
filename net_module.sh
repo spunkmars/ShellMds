@@ -34,15 +34,6 @@ source ${MODS_DIR}/init_module.sh
 
 
 
-######
-#  NET MODULE
-# Date: 2012/08/16 15:54
-# Version: 1.0.0
-# Author: SpunkMars++
-# Support: spunkmars@163.com
-######
-
-
 function get_all_ips {
     local net_config_path='/etc/sysconfig/network-scripts'
     local ifcfg_list=`find  $net_config_path  -name 'ifcfg-*'`

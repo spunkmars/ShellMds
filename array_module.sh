@@ -11,9 +11,6 @@
 # Notes:
 #
 #----------------------
-# Copyright:   2012 (c) SpunkMars++
-# License:     GPL
-#
 #
 ######## Changlog #####
 #Version 1.0.0

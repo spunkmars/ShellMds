@@ -33,17 +33,6 @@ source ${MODS_DIR}/init_module.sh
 #################################
 
 
-
-######
-#  DATE MODULE
-# Date: 2012/03/16 15:01
-# Version: 1.0.0
-# Author: SpunkMars++
-# Support: spunkmars@163.com
-######
-
-
-
 function get_date {
 # EXP:  get_date      #output current date
 #       get_date ago "" 2 days   #output the date of 2 days ago

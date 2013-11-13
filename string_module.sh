@@ -32,14 +32,6 @@ source ${MODS_DIR}/init_module.sh
 #################################
 
 
-######
-#  STRING MODULE
-# Date: 2012/03/16 15:01
-# Version: 1.0.0
-# Author: SpunkMars++
-# Support: spunkmars@163.com
-######
-
 
 function substr {
     local output_string
