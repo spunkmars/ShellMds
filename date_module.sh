@@ -25,7 +25,7 @@ PROG_NAME='date_module'
 MOD_NAME='date_module'
 VERSION='1.0.0'
 MODS_DIR='/data/scripts/lib/shell_modules'
-REQUEST_MODS=()
+REQUEST_MODS=(string_module)
 
 
 ####### LOAD INIT MODULE ########
